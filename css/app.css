@@ -1,0 +1,35 @@
+.title{
+    text-align: center;
+    margin-top: 25px;
+}
+.title .btn{
+    width: auto;
+    margin-top: 15px;
+}
+.cards{
+    background-color: #b3c2c4;
+    margin-bottom: 22px;    
+}
+
+.container-fluid{
+    background-color: gray
+}
+
+.card2{
+    padding-top: 18px;
+}
+.card2 img{
+    margin: 4px;
+    width: 97%;
+}
+.card{
+    margin: 15px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 80%;
+    padding: 25px;
+}
